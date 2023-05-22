@@ -9,7 +9,7 @@ This repository contains a demo for emotion classification using the `j-hartmann
 
 1. Clone the repository:
 ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ShadowDominator/emotion-classification.git
 ```
 2. Install the required dependencies:
 ```shell
